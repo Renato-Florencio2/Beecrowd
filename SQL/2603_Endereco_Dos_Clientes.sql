@@ -1,0 +1,5 @@
+-- https://judge.beecrowd.com/pt/problems/view/2603
+
+select name, street 
+from customers 
+where city = 'Porto Alegre';
